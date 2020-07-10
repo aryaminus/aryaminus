@@ -1,17 +1,17 @@
 <p align="center">
     <a href="https://www.linkedin.com/in/aryaminus/" target="_blank">
-        <img align="left" width="100" height="100"  src="data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIyNCIgaGVpZ2h0PSIyNCIgdmlld0JveD0iMCAwIDI0IDI0Ij48cGF0aCBkPSJNMTIgMGMtNi42MjcgMC0xMiA1LjM3My0xMiAxMnM1LjM3MyAxMiAxMiAxMiAxMi01LjM3MyAxMi0xMi01LjM3My0xMi0xMi0xMnptLTIgMTZoLTJ2LTZoMnY2em0tMS02Ljg5MWMtLjYwNyAwLTEuMS0uNDk2LTEuMS0xLjEwOSAwLS42MTIuNDkyLTEuMTA5IDEuMS0xLjEwOXMxLjEuNDk3IDEuMSAxLjEwOWMwIC42MTMtLjQ5MyAxLjEwOS0xLjEgMS4xMDl6bTggNi44OTFoLTEuOTk4di0yLjg2MWMwLTEuODgxLTIuMDAyLTEuNzIyLTIuMDAyIDB2Mi44NjFoLTJ2LTZoMnYxLjA5M2MuODcyLTEuNjE2IDQtMS43MzYgNCAxLjU0OHYzLjM1OXoiLz48L3N2Zz4=">
+        <img align="left" width="100" height="100"  src="https://i.imgur.com/BPQwY7c.png">
     </a>
     <a href="https://twitter.com/arya_minus" target="_blank">
-        <img align="right" width="100" height="100" src="data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIyNCIgaGVpZ2h0PSIyNCIgdmlld0JveD0iMCAwIDI0IDI0Ij48cGF0aCBkPSJNMTIgMGMtNi42MjcgMC0xMiA1LjM3My0xMiAxMnM1LjM3MyAxMiAxMiAxMiAxMi01LjM3MyAxMi0xMi01LjM3My0xMi0xMi0xMnptNi4wNjYgOS42NDVjLjE4MyA0LjA0LTIuODMgOC41NDQtOC4xNjQgOC41NDQtMS42MjIgMC0zLjEzMS0uNDc2LTQuNDAyLTEuMjkxIDEuNTI0LjE4IDMuMDQ1LS4yNDQgNC4yNTItMS4xODktMS4yNTYtLjAyMy0yLjMxNy0uODU0LTIuNjg0LTEuOTk1LjQ1MS4wODYuODk1LjA2MSAxLjI5OC0uMDQ5LTEuMzgxLS4yNzgtMi4zMzUtMS41MjItMi4zMDQtMi44NTMuMzg4LjIxNS44My4zNDQgMS4zMDEuMzU5LTEuMjc5LS44NTUtMS42NDEtMi41NDQtLjg4OS0zLjgzNSAxLjQxNiAxLjczOCAzLjUzMyAyLjg4MSA1LjkyIDMuMDAxLS40MTktMS43OTYuOTQ0LTMuNTI3IDIuNzk5LTMuNTI3LjgyNSAwIDEuNTcyLjM0OSAyLjA5Ni45MDcuNjU0LS4xMjggMS4yNy0uMzY4IDEuODI0LS42OTctLjIxNS42NzEtLjY3IDEuMjMzLTEuMjYzIDEuNTg5LjU4MS0uMDcgMS4xMzUtLjIyNCAxLjY0OS0uNDUzLS4zODQuNTc4LS44NyAxLjA4NC0xLjQzMyAxLjQ4OXoiLz48L3N2Zz4=">
+        <img align="right" width="100" height="100" src="https://i.imgur.com/KJ2l7oJ.png">
     </a>
     <a href="http://sunim.com.np/" target="_blank">
         <img src="https://i.imgur.com/nBgiVeG.gif">
     </a>
     <a href="https://www.buymeacoffee.com/URZ7Q4h" target="_blank">
-        <img align="left" width="100" height="100"  src="data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIyNCIgaGVpZ2h0PSIyNCIgdmlld0JveD0iMCAwIDI0IDI0Ij48cGF0aCBkPSJNMTIgMGMtNi42MjcgMC0xMiA1LjM3My0xMiAxMnM1LjM3MyAxMiAxMiAxMiAxMi01LjM3MyAxMi0xMi01LjM3My0xMi0xMi0xMnptMSAxNi45NDd2MS4wNTNoLTF2LS45OThjLTEuMDM1LS4wMTgtMi4xMDYtLjI2NS0zLS43MjdsLjQ1NS0xLjY0NGMuOTU2LjM3MSAyLjIyOS43NjUgMy4yMjUuNTQgMS4xNDktLjI2IDEuMzg0LTEuNDQyLjExNC0yLjAxMS0uOTMxLS40MzQtMy43NzgtLjgwNS0zLjc3OC0zLjI0MyAwLTEuMzYzIDEuMDM5LTIuNTgzIDIuOTg0LTIuODV2LTEuMDY3aDF2MS4wMThjLjcyNC4wMTkgMS41MzYuMTQ1IDIuNDQyLjQybC0uMzYyIDEuNjQ3Yy0uNzY4LS4yNy0xLjYxNy0uNTE1LTIuNDQzLS40NjUtMS40ODkuMDg3LTEuNjIgMS4zNzYtLjU4MSAxLjkxNiAxLjcxMi44MDUgMy45NDQgMS40MDIgMy45NDQgMy41NDcuMDAyIDEuNzE4LTEuMzQzIDIuNjMyLTMgMi44NjR6Ii8+PC9zdmc+">
+        <img align="left" width="100" height="100"  src="https://i.imgur.com/tltsSPU.png">
     </a>
     <a href="mailto:sunim.54@gmail.com" target="_blank">
-        <img align="right" width="100" height="100"  src="data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIyNCIgaGVpZ2h0PSIyNCIgdmlld0JveD0iMCAwIDI0IDI0Ij48cGF0aCBkPSJNMTIgLjAyYy02LjYyNyAwLTEyIDUuMzczLTEyIDEyczUuMzczIDEyIDEyIDEyIDEyLTUuMzczIDEyLTEyLTUuMzczLTEyLTEyLTEyem02Ljk5IDYuOThsLTYuOTkgNS42NjYtNi45OTEtNS42NjZoMTMuOTgxem0uMDEgMTBoLTE0di04LjUwNWw3IDUuNjczIDctNS42NzJ2OC41MDR6Ii8+PC9zdmc+">
+        <img align="right" width="100" height="100"  src="https://i.imgur.com/jO7aVZT.png">
     </a>
 </p>
